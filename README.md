@@ -60,4 +60,7 @@ Data source: Our World in Data – Energy dataset (2025 edition), based on the E
 
 ![Figure 2: Fossil Consumption vs GDP per Capita](Figure2.png)
 
-View the interactive Figure 2: [Figure 2 Interactive](Figure2_interactive.html)
+## View Interactive Chart
+
+Interactive version of Figure 2:
+👉 [Open Figure 2 Interactive Chart](https://catalinaolmosd.github.io/Fossil-gdp-decoupling-viz/Figure2_interactive.html)
