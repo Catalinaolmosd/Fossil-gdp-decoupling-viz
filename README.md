@@ -59,3 +59,5 @@ Overall, the figure highlights that structural energy system characteristics and
 Data source: Our World in Data – Energy dataset (2025 edition), based on the Energy Institute Statistical Review of World Energy. Processed from Owid_energy_data_master.csv.
 
 ![Figure 2: Fossil Consumption vs GDP per Capita](Figure2.png)
+
+View the interactive Figure 2: [Figure 2 Interactive](Figure2_interactive.html)
