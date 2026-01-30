@@ -75,7 +75,8 @@ Large emerging economies (e.g., China, India), where scale, industrial structure
 
 Overall, the figure highlights that structural energy system characteristics and policy choices matter more than income alone in shaping fossil fuel dependence, with important implications for global decarbonization pathways.
 
-Data source: Our World in Data – Energy dataset (2025 edition), based on the Energy Institute Statistical Review of World Energy. Processed from Owid_energy_data_master.csv.
+Data source: Our World in Data – Energy dataset, based on the Energy Institute Statistical Review of World Energy (2025).
+Processed from owid-energy-data.csv.
 
 ![Figure 2: Fossil Consumption vs GDP per Capita](Figure2.png)
 
