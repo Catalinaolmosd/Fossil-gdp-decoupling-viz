@@ -27,6 +27,9 @@ The figure shows that population size alone does not explain fossil fuel depende
 Our World in Data – Energy dataset, based on the Energy Institute Statistical Review of World Energy (2025).
 Processed from owid-energy-data.csv.
 
+![Figure 1: Population vs Fossil Fuel Share](Figure1.png)
+
+
 2. **📊 Figure 2 Economic Growth and Fossil Fuel Consumption Trajectories (1990–latest)** 
 
 This figure examines how fossil fuel consumption per capita evolves with economic growth over time, and whether higher income levels are associated with lower fossil energy dependence.
@@ -54,3 +57,5 @@ Large emerging economies (China, India) follow distinct upward trajectories driv
 Overall, the figure highlights that structural energy system characteristics and policy choices matter more than income alone in shaping fossil fuel dependence, with important implications for global decarbonization pathways. 
 
 Data source: Our World in Data – Energy dataset (2025 edition), based on the Energy Institute Statistical Review of World Energy. Processed from Owid_energy_data_master.csv.
+
+![Figure 2: Fossil Consumption vs GDP per Capita](Figure2.png)
