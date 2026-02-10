@@ -55,5 +55,6 @@ Economic growth alone does not ensure lower fossil fuel use. Structural factors,
 ---
 
 ## 📥 Full Report
-**Download the complete PDF:** [Fossil Fuel Dependency and Economic Growth Report](Fossil_Fuel_Dependancy_and_Economic_Growth_Report.pdf)
+[📥 Download Full Report](Fossil%20Fuel%20Dependency%20and%20Economic%20Growth%20Report.pdf)
+
 
